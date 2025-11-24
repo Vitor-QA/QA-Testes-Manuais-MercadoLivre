@@ -11,8 +11,6 @@ QA-Testes-Manuais-MercadoLivre/
 │   └─ ...
 └─ Relatorio_de_Bugs.pdf
 
-# QA-Testes-Manuais - Mercado Livre
-
 **Descrição:** Projeto de testes manuais no site do Mercado Livre, incluindo plano de teste, casos, execução e relatório de bugs.
 
 ## 📂 Estrutura do projeto
